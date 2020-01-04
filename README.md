@@ -12,10 +12,6 @@ This is my final project for SJTU M3DV: Medical 3D Voxel Classification of EE369
 Model trained on Google Colab:
 * python 3.6
 * keras and other library
-Model tested on Google colab or native computer.
+* Model tested on Google colab or native computer.
 
 
-
-
-
-# M3DV
